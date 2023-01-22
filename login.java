@@ -4,7 +4,11 @@ public class Login
        {
               int i;
 
+<<<<<<< HEAD
               for(i=0;i<=30;i++)
+=======
+              for(i=0;i<=20;i++)
+>>>>>>> dev-1.2.5
               {
                       system.out.println("Number : " + i);
               }
